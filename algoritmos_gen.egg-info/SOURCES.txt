@@ -1,0 +1,9 @@
+README.md
+setup.py
+algoritmos_gen/__init__.py
+algoritmos_gen/algoritmo_genetico.py
+algoritmos_gen/utils.py
+algoritmos_gen.egg-info/PKG-INFO
+algoritmos_gen.egg-info/SOURCES.txt
+algoritmos_gen.egg-info/dependency_links.txt
+algoritmos_gen.egg-info/top_level.txt
